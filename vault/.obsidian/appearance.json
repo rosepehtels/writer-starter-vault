@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "theme": "moonstone",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "Custom style",
+    "Multi columns",
+    "tailwind",
+    "Pinned Pages"
+  ],
+  "baseFontSize": 16
+}
